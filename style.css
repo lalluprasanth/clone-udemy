@@ -60,7 +60,7 @@ body{
 .mylearning__popup{
     position: absolute;
     background-color: white;
-    border: solid black 1px;
+    border: solid black 2px;
     width: 100px;
     top: 30px;
     padding: 20px;
